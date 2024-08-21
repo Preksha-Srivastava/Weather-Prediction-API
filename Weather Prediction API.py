@@ -10,7 +10,7 @@ import pyfiglet
 from datetime import datetime
 #import chalk
 
-API_KEY = "460bd7b2c351919144eec9820d5381fb"
+API_KEY = ""
 BASE_URL = "http://api.openweathermap.org/data/2.5/weather"
 
 # Map weather codes to icons
